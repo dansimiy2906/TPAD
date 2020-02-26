@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "564579264868",
+    "firebase_url": "https://tpad-46e8f.firebaseio.com",
+    "project_id": "tpad-46e8f",
+    "storage_bucket": "tpad-46e8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564579264868:android:ac8e1b66e5e80081153271",
+        "android_client_info": {
+          "package_name": "com.example.tpad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564579264868-8v22b0c9136u5es9std0jqcs0phdminv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tpad",
+            "certificate_hash": "efe12f3d383b586ba0e20acef835c88c06c336ce"
+          }
+        },
+        {
+          "client_id": "564579264868-ael8s4fmactrp4elp46e10l90hnnf2kb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN4RRwmLysLjRztYvyjRsc9Whn_nx6sIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564579264868-ael8s4fmactrp4elp46e10l90hnnf2kb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
